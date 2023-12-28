@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola mundo! 👋 Mi nombre es Valeria Capetillo, pero todos me llaman Vale.</h1>
 <p align="center">
-  Soy profesora de inglés, apasaionada por el diseño y la tecnología. 
+  Soy profesora de inglés, apasionada por el diseño y la tecnología. 
   </p>
 <p align="center">
   <i> El próximo año me titulo de Ingeniera en informática.
@@ -15,7 +15,7 @@
   <li>👩‍💻 Tengo 33 años.</li>
   <li>✈️ Me encanta viajar. </li>
   <li>💻Actualmente ayudo a colegios a transformarse digitalmente. </li>
-  <li> Intereses: Liderar equipo innovadores </li>
+  <li> Intereses: Liderar equipos innovadores </li>
 </ul>
 
 <h2>
