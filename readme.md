@@ -3,7 +3,7 @@
   Soy profesora de inglés, apasionada por el diseño y la tecnología. 
   </p>
 <p align="center">
-  <i> El próximo año me titulo de Ingeniera en informática.
+  <i> Estoy en último año de Ingeniería en informática.
   </i>
 </p>
 
